@@ -1,4 +1,4 @@
-# 🚀 **Windows JavaScript Backdoor + SAM Exfiltration**  
+# 👿**Flipper Zero BadUSB JavaScript Backdoor + SAM Exfiltration**🐬
 
 ![Flipper Zero](https://img.shields.io/badge/device-Flipper%20Zero-orange?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![Status](https://img.shields.io/badge/status-educational-lightgrey?style=flat-square)  
 
