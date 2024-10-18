@@ -1,6 +1,6 @@
 # 👿**Flipper Zero BadUSB JavaScript Backdoor + SAM Exfiltration**🐬
 
-![Flipper Zero](https://img.shields.io/badge/device-Flipper%20Zero-orange?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![Status](https://img.shields.io/badge/status-educational-lightgrey?style=flat-square)  
+![Flipper Zero](https://img.shields.io/badge/device-Flipper%20Zero-orange?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)  ![Status](https://img.shields.io/badge/status-educational-lightgrey?style=flat-square)  
 
 ## 📋 **Descrizione**  
 Questo repository contiene uno **script BadUSB educativo per il Flipper Zero**, progettato per eseguire attacchi simulati su un sistema Windows. Lo script sfrutta un payload che automatizza attività come:   
@@ -44,11 +44,6 @@ Questo repository contiene uno **script BadUSB educativo per il Flipper Zero**, 
 ```plaintext
 Questo script è fornito solo a scopo didattico. L'uso improprio di questo codice è vietato e può violare leggi locali o internazionali. Assicurati di avere l'autorizzazione esplicita per testare qualsiasi sistema su cui viene utilizzato.
 ```
-
----
-
-## 📄 **Licenza**  
-Questo progetto è distribuito sotto la licenza MIT. Consulta il file [LICENSE](./LICENSE) per maggiori dettagli.
 
 ---
 
